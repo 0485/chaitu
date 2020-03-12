@@ -1,0 +1,49 @@
+.parent{
+  display: flex;
+  justify-content: center;
+}
+
+
+
+.child{
+  width:20%;
+  height:50%;
+  border:1px solid #ddd;
+  padding: 1%;
+  margin: 1%;
+  box-shadow: 0px 8px 8px -8px #000; 
+  text-align: center;
+  background-color: lightcoral;
+
+}
+.child img{
+  width: 50%;
+}
+.link{
+  text-decoration: none;
+}
+.btn{
+  background: violet;
+  padding: 1%;
+  text-decoration: none;
+  color: #fff;
+  display: block;
+}
+.child2{
+  border: 1px solid#ddd;
+  width: 75%;
+  padding: 1%;
+  margin: 1%;
+  box-shadow: 0px 8px 8px -8px #000;
+}
+.skill{
+  margin: 0.5%;
+  padding: 0.5%;
+  color:#fff;
+  border-radius: 10px;
+  background-color: #4a55c8;
+  border: 1px solid #333b8a;
+  box-shadow: 0px 8px 8px -8px #000;
+}
+
+

@@ -1,0 +1,90 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "name":"P Samyu",
+                "email":"rp814043@gmail.com",
+                "mobile":"9014263231"
+            },
+            "Education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"92",
+                    "institute":"New KennedyHigh School"
+                },
+                {
+                    "degree":"Inter",
+                    "percentage":"90",
+                    "institute":"Sri Chaitanya"
+                },
+                {
+                    "degree":"B.Tech",
+                    "percentage":"80",
+                    "institute":"Vasireddy Venkatadri Institute of Technology"
+                }
+            ],
+            "skills":[
+                {
+                    "type":"programming lanuages",
+                    "values":["c","c++","java","python","ruby"]
+                },
+                {
+                    "type":"web technologies",
+                    "values":["HTML","CSS","javascript"]
+                },
+                {
+                    "type":"Frameworks & Libraries",
+                    "values":["React Js"]
+                },
+                {
+                    "type":"operating Systems",
+                    "values":["Windows","Linux","Ubuntu"]
+                }
+            ]
+        },
+        {
+            "basics":{
+                "name":" P UdayaSri",
+                "email":"svsvsrikrishna@gmail.com",
+                "mobile":"7989335067"
+                
+            },
+            "Education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"98",
+                    "institute":"Intel High School"
+                },
+                {
+                    "degree":"Inter",
+                    "percentage":"96",
+                    "institute":"Narayana"
+                },
+                {
+                    "degree":"B.Tech",
+                    "percentage":"92",
+                    "institute":"Vasireddy Venkatadri Institute of Technology"
+                }
+            ],
+                "skills":[
+                    {
+                        "type":"programming lanuages",
+                        "values":["c","c++","java","python","ruby"]
+                    },
+                    {
+                        "type":"web technologies",
+                        "values":["HTML","CSS","javascript"]
+                    },
+                    {
+                        "type":"Frameworks & Libraries",
+                        "values":["React Js"]
+                    },
+                    {
+                        "type":"operating Systems",
+                        "values":["Windows","Linux","Ubuntu"]
+                    }
+                ]
+           
+        }
+    ]
+}
