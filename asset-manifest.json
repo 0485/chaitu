@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chaitu/static/css/main.12730ed6.chunk.css",
+    "main.js": "/chaitu/static/js/main.952c66da.chunk.js",
+    "main.js.map": "/chaitu/static/js/main.952c66da.chunk.js.map",
+    "runtime-main.js": "/chaitu/static/js/runtime-main.a9afe65a.js",
+    "runtime-main.js.map": "/chaitu/static/js/runtime-main.a9afe65a.js.map",
+    "static/js/2.05f3e1a1.chunk.js": "/chaitu/static/js/2.05f3e1a1.chunk.js",
+    "static/js/2.05f3e1a1.chunk.js.map": "/chaitu/static/js/2.05f3e1a1.chunk.js.map",
+    "index.html": "/chaitu/index.html",
+    "precache-manifest.e04e189f8d6dad84e46ec45e988f2563.js": "/chaitu/precache-manifest.e04e189f8d6dad84e46ec45e988f2563.js",
+    "service-worker.js": "/chaitu/service-worker.js",
+    "static/css/main.12730ed6.chunk.css.map": "/chaitu/static/css/main.12730ed6.chunk.css.map",
+    "static/js/2.05f3e1a1.chunk.js.LICENSE.txt": "/chaitu/static/js/2.05f3e1a1.chunk.js.LICENSE.txt",
+    "static/media/avatar.svg": "/chaitu/static/media/avatar.3d5dc110.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9afe65a.js",
+    "static/js/2.05f3e1a1.chunk.js",
+    "static/css/main.12730ed6.chunk.css",
+    "static/js/main.952c66da.chunk.js"
+  ]
+}
